@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySlip", "PaySlip\PaySlip.csproj", "{66D5FCEE-AF84-4809-BA8B-1882243D8198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D5FCEE-AF84-4809-BA8B-1882243D8198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D5FCEE-AF84-4809-BA8B-1882243D8198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D5FCEE-AF84-4809-BA8B-1882243D8198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D5FCEE-AF84-4809-BA8B-1882243D8198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
